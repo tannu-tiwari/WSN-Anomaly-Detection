@@ -1,0 +1,4 @@
+Model,Accuracy Mean,Precision Mean,Recall Mean,F1 Mean
+Random Forest,1.0,1.0,1.0,1.0
+Decision Tree,1.0,1.0,1.0,1.0
+Logistic Regression,0.99,1.0,0.96,0.9789473684210526

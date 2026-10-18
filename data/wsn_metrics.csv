@@ -1,0 +1,3 @@
+flow_id,source,destination,packets_sent,packets_received,packets_lost,pdr,throughput_bps,average_delay_seconds
+1,10.1.1.1,10.1.1.3,16,16,0,100,9215.19,0.00136934
+2,10.1.1.3,10.1.1.1,16,16,0,100,9228.87,0.00150684
